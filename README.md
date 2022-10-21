@@ -36,10 +36,10 @@
 	\caption{符号说明表}
 	\label{fuhao}
 ~~~
-- 简便的参考文献（改尾注）
+- 参考文献
 ~~~
-\endnote{}
-\renewcommand{\notesname}{参考文献}\small \theendnotes 
+\cite{}
+bibtex格式
 ~~~
 - 字体大小
 ~~~
