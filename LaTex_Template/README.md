@@ -1,7 +1,7 @@
 # 中南大学本科生毕业设计论文LaTex模板
 > 本模板适合有一定LaTex基础的学习者使用
 >
-> 初学者可配合首页的LaTex常用语法学习使用
+> 初学者可配合[首页](https://github.com/heyzbw/CSU_Thesis_Template)的LaTex常用语法学习使用
 ## 使用指南
 - `main.tex`为主源文件，使用模板时编译此文件
 - `cover.tex`编辑论文封面
