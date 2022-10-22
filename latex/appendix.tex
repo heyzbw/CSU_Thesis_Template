@@ -1,0 +1,86 @@
+\appendix
+\label{cod:matlab}
+\newpage
+\vspace*{-21.6pt}
+\begin{center}
+	\zihao{3}\heiti
+	\phantomsection
+	\addcontentsline{toc}{section}{附录A：Matlab代码示例}
+	附录A：Matlab代码示例
+\end{center}
+
+\definecolor{DarkGreen}{rgb}{0.0,0.4,0.0}
+\lstloadlanguages{Matlab}
+\lstset{language=Matlab,
+	frame=shadowbox,                           % shadowbox framed
+	rulesepcolor= \color{gray},%框的颜色
+	breaklines=true,
+	basicstyle=\small\ttfamily,
+	keywordstyle=[1]\color{blue}\bfseries,  % primitive funs in bold blue
+	keywordstyle=[2]\color{purple},         % args of funs in purple
+	keywordstyle=[3]\color{blue}\underbar,  % user funs in blue with underbar
+	stringstyle=\color{purple},             % strings in purple
+	showstringspaces=false,
+	identifierstyle=,
+	commentstyle=\usefont{T1}{pcr}{m}{sl}\color{DarkGreen}\small,
+	tabsize=4,
+	% more standard MATLAB funcs
+	morekeywords={sawtooth, square},
+	% args of funcs
+	morekeywords=[2]{on, off, interp},
+	% user funcs
+	morekeywords=[3]{FindESS, homework_example},
+	morecomment=[l][\color{blue}]{...},     % line continuation (...) like blue comment
+	numbers=left,
+	numberstyle=\tiny\color{blue},
+	firstnumber=1,
+	stepnumber=1,
+	escapeinside=``,
+}
+
+\begin{lstlisting}[language=Matlab]
+	%这个是行列式转化的代码，作为示例
+	function f=det2poly(P)
+	n=size(P,4);
+	f=0;
+	if n==2  
+	f=conv(P(:,:,1,1),P(:,:,2,2))-conv(P(:,:,1,2),P(:,:,2,1));  
+	else
+	P1=P;
+	for i=1:n    
+	P=P1;     
+	P(:,:,1,:)=[];
+	P(:,:,:,i)=[];   
+	f=(-1)^(1+i)*conv(P1(:,:,1,i),det2poly(P))+f;   
+	end
+	end
+\end{lstlisting}
+
+\newpage
+\begin{center}
+	\zihao{3}\heiti
+	\phantomsection
+	\addcontentsline{toc}{section}{附录B：Python代码示例}
+	附录B：Python代码示例
+\end{center}
+
+\begin{python}
+	import math
+	
+	
+	def hix(x):
+	if x > 0:
+	return x
+	else:
+	return 0
+	
+	
+	def trans1(x1, x2, n, s1, s2, lock):
+	# 1.	(A1,B1) -> (A1,B1)
+	if lock == 1:
+	dt = 22 * (math.floor(x1 / 2) + math.floor(x2 / 2))
+	dw = math.floor(x1 / 2) * n + math.floor(x2 / 2) * (150 - n)
+	return dt, dw, lock
+	else:
+	return 0, 0, lock
+\end{python}

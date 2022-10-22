@@ -1,0 +1,21 @@
+\begin{thebibliography}{2}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\relax\else
+  \urlstyle{same}\fi
+\providecommand{\href}[2]{\url{#2}}
+\providecommand{\doi}[1]{\href{https://doi.org/#1}{#1}}
+
+\bibitem[桂小林，安健，何欣(2018)]{IOTB2}
+桂小林，安健，何欣.
+\newblock 物联网技术导论（第二版）\allowbreak[M].
+\newblock 北京: 清华大学出版社, 2018.
+
+\bibitem[Misra et~al.(2022)Misra, Dixit, Al-Mallahi, Bhullar, Upadhyay, and
+  Martynenko]{IOTJA}
+MISRA~N~N, DIXIT~Y, AL-MALLAHI~A, et~al.
+\newblock Iot, big data, and artificial intelligence in agriculture and food
+  industry\allowbreak[J].
+\newblock IEEE Internet of Things Journal, 2022, 9:\penalty0 6305-6324.
+
+\end{thebibliography}
