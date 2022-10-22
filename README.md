@@ -1,5 +1,5 @@
 # CSU_Thesis_Template
-中南大学本科生毕业设计论文$\LaTex$模板
+中南大学本科生毕业设计论文LaTex模板
 
 ## LaTex常见语法记录
 - 有编号分点
