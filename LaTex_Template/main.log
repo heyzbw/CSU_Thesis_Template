@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.11.17)  22 OCT 2022 11:28
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.11.17)  22 OCT 2022 12:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1318,7 +1318,7 @@ Package fontspec Info: Font family 'FandolKai-Regular(0)' created for font
 ]) (./abstract.tex
 
 LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/m/n' instead on input line 17.
+(Font)              using `TU/ptm/m/n' instead on input line 18.
 
 File: ./pictures/CSU_Logo.jpg Graphic file (type bmp)
 <./pictures/CSU_Logo.jpg>
@@ -1463,10 +1463,10 @@ Package rerunfilecheck Info: File `main.brf' has not changed.
 (rerunfilecheck)             Checksum: A58BEDC22A1F6A52CAF0074D5B297F1E;137.
  ) 
 Here is how much of TeX's memory you used:
- 25738 strings out of 476919
- 524313 string characters out of 5825423
- 1211326 words of memory out of 5000000
- 45250 multiletter control sequences out of 15000+600000
+ 25760 strings out of 476919
+ 526018 string characters out of 5825423
+ 1211686 words of memory out of 5000000
+ 45272 multiletter control sequences out of 15000+600000
  419583 words of font info for 130 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  101i,16n,104p,1190b,1590s stack positions out of 5000i,500n,10000p,200000b,80000s
