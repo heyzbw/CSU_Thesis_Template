@@ -13,3 +13,5 @@
 
 ## 致谢
 参考文献格式文件`gbt7714.sty`、`gbt7714-numerical.bst`和`gbt7714-author-year.bst`来源于GitHub项目：[GB/T 7714-2015 BibTeX Style](https://github.com/CTeX-org/gbt7714-bibtex-style)
+
+Python引用格式文件`pythonhighlight.sty`来源于GitHub项目：[python-latex-highlighting](https://github.com/olivierverdier/python-latex-highlighting)
