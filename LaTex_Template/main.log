@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.11.17)  22 OCT 2022 12:10
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.11.17)  24 OCT 2022 09:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1083,86 +1083,86 @@ er Verdier <olivier.verdier@gmail.com>
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
  ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 170.
+LaTeX Info: Redefining \selectfont on input line 171.
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
 \symlegacymaths=\mathgroup11
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 170.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 170.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 170.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 170.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 170.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 170.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 170.
-LaTeX Font Info:    Redeclaring math accent \check on input line 170.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 170.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 170.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 170.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 170.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 170.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 170.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 170.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 170.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 170.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 170.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 170.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 170.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 170.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 170.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 170.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 170.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 171.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 171.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 171.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 171.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 171.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 171.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 171.
+LaTeX Font Info:    Redeclaring math accent \check on input line 171.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 171.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 171.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 171.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 171.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 171.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 171.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 171.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 171.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 171.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 171.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 171.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 171.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 171.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 171.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 171.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 171.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 170.
+(Font)              `operators' in the math version `normal' on input line 171.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/ptm/m/n on input line 170.
+(Font)                  OT1/cmr/m/n --> TU/ptm/m/n on input line 171.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 170.
+(Font)              `operators' in the math version `bold' on input line 171.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/ptm/m/n on input line 170.
+(Font)                  OT1/cmr/bx/n --> TU/ptm/m/n on input line 171.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/ptm/m/n --> TU/ptm/m/n on input line 170.
+(Font)                  TU/ptm/m/n --> TU/ptm/m/n on input line 171.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/ptm/m/it on input line 170.
+(Font)                  OT1/cmr/m/it --> TU/ptm/m/it on input line 171.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/ptm/b/n on input line 170.
+(Font)                  OT1/cmr/bx/n --> TU/ptm/b/n on input line 171.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/phv/m/n on input line 170.
+(Font)                  OT1/cmss/m/n --> TU/phv/m/n on input line 171.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/pcr/m/n on input line 170.
+(Font)                  OT1/cmtt/m/n --> TU/pcr/m/n on input line 171.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/ptm/m/n --> TU/ptm/b/n on input line 170.
+(Font)                  TU/ptm/m/n --> TU/ptm/b/n on input line 171.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/ptm/b/it on input line 170.
+(Font)                  OT1/cmr/bx/it --> TU/ptm/b/it on input line 171.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/phv/b/n on input line 170.
+(Font)                  OT1/cmss/bx/n --> TU/phv/b/n on input line 171.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/pcr/b/n on input line 170.
-Package hyperref Info: Link coloring OFF on input line 170.
+(Font)                  OT1/cmtt/m/n --> TU/pcr/b/n on input line 171.
+Package hyperref Info: Link coloring OFF on input line 171.
 
 (e:/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -1175,15 +1175,15 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count397
 )
-LaTeX Info: Redefining \ref on input line 170.
-LaTeX Info: Redefining \pageref on input line 170.
-LaTeX Info: Redefining \nameref on input line 170.
+LaTeX Info: Redefining \ref on input line 171.
+LaTeX Info: Redefining \pageref on input line 171.
+LaTeX Info: Redefining \nameref on input line 171.
 
 (./main.out) (./main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
-Package backref Info: ** backref set up for natbib ** on input line 170.
+Package backref Info: ** backref set up for natbib ** on input line 171.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1221,7 +1221,7 @@ Package backref Info: ** backref set up for natbib ** on input line 170.
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 170.
+(lastpage)             ! on input line 171.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: listings package is loaded.
 Package caption Info: longtable package is loaded.
@@ -1230,7 +1230,7 @@ Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
 
-Package chemgreek Info: Activating mapping `default' on line 170.
+Package chemgreek Info: Activating mapping `default' on line 171.
 
 \c@lstlisting=\count398
 
@@ -1241,37 +1241,37 @@ File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 glish.dict
 Dictionary: translator-basic-dictionary, Language: English 
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 170
+LaTeX Font Info:    Trying to load font information for U+msa on input line 171
 .
  (e:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 170
+LaTeX Font Info:    Trying to load font information for U+msb on input line 171
 .
 
 (e:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for U+euex on input line 17
-0.
+1.
 
 (e:/texlive/2021/texmf-dist/tex/latex/amsfonts/ueuex.fd
 File: ueuex.fd 2013/01/14 v3.01 Euler extra symbols
 )
 LaTeX Font Info:    Trying to load font information for TU+phv on input line 17
-0.
-LaTeX Font Info:    No file TUphv.fd. on input line 170.
+1.
+LaTeX Font Info:    No file TUphv.fd. on input line 171.
 
 
 LaTeX Font Warning: Font shape `TU/phv/m/n' undefined
-(Font)              using `TU/lmr/m/n' instead on input line 170.
+(Font)              using `TU/lmr/m/n' instead on input line 171.
 
 LaTeX Font Info:    Trying to load font information for TU+pcr on input line 17
-0.
-LaTeX Font Info:    No file TUpcr.fd. on input line 170.
+1.
+LaTeX Font Info:    No file TUpcr.fd. on input line 171.
 
 LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
-(Font)              using `TU/lmr/m/n' instead on input line 170.
+(Font)              using `TU/lmr/m/n' instead on input line 171.
 
 (./cover.tex
 File: ./pictures/CSU_Logo.jpg Graphic file (type bmp)
@@ -1463,9 +1463,9 @@ Package rerunfilecheck Info: File `main.brf' has not changed.
 (rerunfilecheck)             Checksum: A58BEDC22A1F6A52CAF0074D5B297F1E;137.
  ) 
 Here is how much of TeX's memory you used:
- 25760 strings out of 476919
- 526018 string characters out of 5825423
- 1211686 words of memory out of 5000000
+ 25761 strings out of 476919
+ 526040 string characters out of 5825423
+ 1211701 words of memory out of 5000000
  45272 multiletter control sequences out of 15000+600000
  419583 words of font info for 130 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
