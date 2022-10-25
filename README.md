@@ -67,6 +67,10 @@ Command     Nominal Point Size      Exact Point Size
 
 \end{python}
 ~~~
+- 脚注
+~~~
+\footnote{}
+~~~
 
 模板还有很多不足之处待改进，欢迎大家在issue里提问。
 
