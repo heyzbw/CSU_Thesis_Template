@@ -6,7 +6,7 @@
 - `main.tex`为主源文件，使用模板时编译此文件
 - `cover.tex`编辑论文封面
 - `abstract.tex`编辑论文标题与中英文的摘要
-- `body.tex`编辑论文正文
+- `body.tex`编辑论文正文（包括结束语）
 - `appendix.tex`编辑论文附录
 - 文件夹`literature`存放文献数据库`thesis.bib`文件
 - 文件夹`picture`存放论文中引用的图片
