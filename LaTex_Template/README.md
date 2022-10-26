@@ -10,6 +10,7 @@
 - `appendix.tex`编辑论文附录
 - 文件夹`literature`存放文献数据库`thesis.bib`文件
 - 文件夹`picture`存放论文中引用的图片
+- 模板编译效果见<a href="main.pdf" target="_blank">main.pdf</a>
 
 ## 致谢
 参考文献格式文件`gbt7714.sty`、`gbt7714-numerical.bst`和`gbt7714-author-year.bst`来源于GitHub项目：[GB/T 7714-2015 BibTeX Style](https://github.com/CTeX-org/gbt7714-bibtex-style)
