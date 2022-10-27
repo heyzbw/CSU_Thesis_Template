@@ -1,4 +1,4 @@
-\documentclass[a4paper,12pt,UTF8,oneside,hyperref]{ctexart}%twoside设置双面打印格式;
+\documentclass[a4paper,12pt,UTF8,oneside,hyperref]{ctexart}%twoside可设置双面打印格式;
 \usepackage{times}%全文英文字体使用Times New Roman；
 \linespread{1.5}%全文1.5倍行距；
 %========================电子文档与超链接======================
@@ -9,7 +9,7 @@
  bookmarksopen = true,
  pdfborder=0 0 0,
  hyperfootnotes=false,
-% pdfpagemode = FullScreen,
+ pdfpagemode = FullScreen,
  pdfstartview = Fit,
  pdftitle = {本科毕业设计(论文)},
  pdfauthor = {heyzbw}
@@ -29,12 +29,8 @@
 %==========================章节格式=============================
 \usepackage{titlesec}
 \usepackage{indentfirst}
-%\usepackage{zhnumber} % 章节格式为中文
-%\renewcommand\thesection{\zhnum{section}}
-%\renewcommand \thesubsection {\arabic{section}}
 \setlength{\parindent}{2em}
 \titleformat{\section}[hang]{\heiti\Large\center}{第\,\thesection\,章 \quad}{0pt}{}{}
-%\titleformat{\subsection}[hang]{\heiti\normalsize\bfseries\raggedright}{\thesubsection\quad}{0pt}{}{}
 \titleformat{\subsection}[hang]{\heiti\normalsize\raggedright}{\thesubsection\quad}{0pt}{}{}
 \titleformat{\subsubsection}[hang]{\normalsize\kaishu\raggedright}{\thesubsubsection\quad}{0pt}{}{}
 \titlespacing*{\section}{0pt}{0pt}{19.2pt}[0pt]
@@ -51,7 +47,7 @@
 %===============================================================
 
 %==========================脚注格式=============================
-\usepackage{pifont}%更好看的一个脚注格式
+\usepackage{pifont}
 \renewcommand\thefootnote{\ding{\numexpr171+\value{footnote}}}% 更好看的一个脚注格式
 \usepackage[perpage]{footmisc}%脚注每页清零编号
 %===============================================================
@@ -70,7 +66,7 @@
 \usepackage{booktabs,multirow}%三线表
 \usepackage{longtable}%长表格
 \usepackage{bigstrut}
-% \usepackage{subcaption}
+%\usepackage{subcaption}%插入并排图片
 \usepackage{diagbox}
 \usepackage{makecell}
 \usepackage{tabularx}
@@ -95,10 +91,6 @@
 \newenvironment{tequation}{\begin{equation}\tiny}{\end{equation}}
 %===============================================================
 
-%==========================程序代码=============================
-\usepackage{listings}
-%===============================================================
-
 %==========================使用彩色=============================
 %\usepackage[usenames,dvipsnames]{color}
 \usepackage{color}
@@ -108,6 +100,11 @@
 \definecolor{mypink}{rgb}{.99,.91,.95}
 \definecolor{mycyan}{cmyk}{.3,0,0,0}
 %================================================================
+
+%==========================程序代码=============================
+\usepackage{listings}
+\usepackage{pythonhighlight}
+%===============================================================
 
 %=============================其它===============================
 \usepackage{siunitx}%摄氏度 \SI{100}{\degreeCelsius}
@@ -129,12 +126,10 @@
 
 %=========================一个更好的下划线设置=======================
 \usepackage{ulem}
-
 \usepackage{enumitem}
-
 \usepackage{hhline}% 双线表
-
 \newcommand\dlmu[2][4cm]{\hskip1pt\underline{\hb@xt@ #1{\hss#2\hss}}\hskip3pt}
+%==================================================================
 
 %=========================公式按章编号===============================
 \makeatletter
@@ -167,7 +162,6 @@
 %==================================================================
 
 \usepackage{doc}%BibTeX显示；
-\usepackage{pythonhighlight}
 \begin{document}
 \input{cover.tex}
 \clearpage
