@@ -1,5 +1,7 @@
 # CSU_Thesis_Template
-中南大学本科生毕业设计论文LaTex模板
+中南大学本科生毕业设计论文模板
+- `Word_Template`来自中南大学本科生院官方[通知文件](http://oa.its.csu.edu.cn/Home/Release_TZTG_zd/9730F88738E24312B05D4162BC0144FD)
+- `LaTex_Template`参考`Word_Template`的格式整理制作
 
 ## LaTex常见语法记录
 - 有编号分点
