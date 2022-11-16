@@ -31,18 +31,27 @@
 
 \ref{P1}
 ~~~
-- 表格表头添加
+- 有编号公式与引用
+~~~
+\begin{align}\label{E1}
+
+\end{align}
+
+\ref{E1}
+~~~
+- 表格表头添加与引用
 ~~~
 \begin{table}[!h]
 	\centering
-	\caption{符号说明表}
-	\label{fuhao}
+	\caption{说明表}
+	\label{T1}
+	
+\ref{T1}
 ~~~
 - 参考文献
 ~~~
+bibtex格式引用放在.bib文件中
 \cite{}
-bibtex格式
-文献标记不包含数字
 ~~~
 - 字体大小
 ~~~
