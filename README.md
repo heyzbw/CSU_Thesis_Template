@@ -82,6 +82,10 @@ Command     Nominal Point Size      Exact Point Size
 ~~~
 \footnote{}
 ~~~
+- 插入超链接
+~~~
+\href{显示文字}{网址地址}
+~~~
 
 模板还有很多不足之处待改进，欢迎大家在issue里提问。
 
