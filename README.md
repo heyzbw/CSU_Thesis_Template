@@ -67,6 +67,11 @@ Command     Nominal Point Size      Exact Point Size
 \huge              20                   20.74
 \Huge              24                   24.88
 ~~~
+- 文本字体
+~~~
+\textbf{加粗}
+\emph{斜体}
+~~~
 - 添加斜杠
 ~~~
 \usepackage{diagbox}
