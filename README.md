@@ -11,6 +11,18 @@
 	\item 
 	\item 
 \end{enumerate}
+
+更改编号格式为小写罗马数字：
+\begin{enumerate}[label=\roman*)]
+	\item 
+	\item 
+	\item 
+\end{enumerate}
+
+[label=\Roman*)] -> 大写罗马数字
+[label=\arabic*)] -> 数字
+[label=(\alph*)] -> 字母
+更多信息可以参考enumitem包的文档：https://ctan.org/pkg/enumitem
 ~~~
 - 无编号分点
 ~~~
