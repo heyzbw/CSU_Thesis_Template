@@ -3,9 +3,9 @@
 - `Word_Template`来自中南大学本科生院官方[通知文件](http://oa.its.csu.edu.cn/Home/Release_TZTG_zd/9730F88738E24312B05D4162BC0144FD)
 - `LaTex_Template`参考`Word_Template`的格式整理制作
 
-> 英文报告模板（哈佛引用格式）可参见[ICL LaTex模板](https://github.com/heyzbw/ICL_Thesis_Template)
+> 英文报告模板（哈佛引用格式）以及Overleaf适配版可参见[ICL LaTex模板](https://github.com/heyzbw/ICL_Thesis_Template)
 
-## LaTex常见语法记录
+## LaTeX常见语法记录
 - 有编号分点
 ~~~
 \begin{enumerate}
